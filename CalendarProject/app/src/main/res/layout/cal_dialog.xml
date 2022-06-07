@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:id="@+id/dialog_ll"
+    android:padding="30dp"
+    android:background="@color/white">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center|top"
+        android:hint="20XX년 X월 XX일"
+        android:textSize="25sp"
+        android:background="@color/white"
+        android:id="@+id/dialog_cal">
+    </TextView>
+    <ListView
+        android:id="@+id/cal_dialog_list"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10sp"
+        android:padding="10dp"
+        />
+</LinearLayout>

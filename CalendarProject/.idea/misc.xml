@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Office2024/AndroidStudioProjects/AndroidTeamProject/CalendarProject/app/src/main/res/layout/activity_main.xml" value="0.42311033883579496" />
+        <entry key="..\:/Users/Office2024/AndroidStudioProjects/Team/AndroidTeamProject/CalendarProject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1235" />
+        <entry key="..\:/Users/Office2024/AndroidStudioProjects/Team/AndroidTeamProject/CalendarProject/app/src/main/res/layout-large/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Office2024/AndroidStudioProjects/Team/AndroidTeamProject/CalendarProject/app/src/main/res/layout/activity_detail_calendar.xml" value="0.176" />
+        <entry key="..\:/Users/Office2024/AndroidStudioProjects/Team/AndroidTeamProject/CalendarProject/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Office2024/AndroidStudioProjects/Team/AndroidTeamProject/CalendarProject/app/src/main/res/layout/activity_week.xml" value="0.12132725430597771" />
+        <entry key="..\:/Users/Office2024/AndroidStudioProjects/Team/AndroidTeamProject/CalendarProject/app/src/main/res/layout/dayitem.xml" value="0.536" />
+        <entry key="..\:/Users/Office2024/AndroidStudioProjects/Team/AndroidTeamProject/CalendarProject/app/src/main/res/layout/fragment_month.xml" value="0.12132725430597771" />
+        <entry key="..\:/Users/Office2024/AndroidStudioProjects/Team/AndroidTeamProject/CalendarProject/app/src/main/res/layout/fragment_test.xml" value="0.1125" />
+        <entry key="..\:/Users/Office2024/AndroidStudioProjects/Team/AndroidTeamProject/CalendarProject/app/src/main/res/layout/fragment_week.xml" value="0.2" />
+        <entry key="..\:/Users/Office2024/AndroidStudioProjects/Team/AndroidTeamProject/CalendarProject/app/src/main/res/layout/item.xml" value="0.6" />
+        <entry key="..\:/Users/Office2024/AndroidStudioProjects/Team/AndroidTeamProject/CalendarProject/app/src/main/res/layout/line.xml" value="0.536" />
+        <entry key="..\:/Users/Office2024/AndroidStudioProjects/Team/AndroidTeamProject/CalendarProject/app/src/main/res/layout/month_item.xml" value="0.536" />
+        <entry key="..\:/Users/Office2024/AndroidStudioProjects/Team/AndroidTeamProject/CalendarProject/app/src/main/res/layout/test.xml" value="0.1" />
+        <entry key="..\:/Users/Office2024/AndroidStudioProjects/Team/AndroidTeamProject/CalendarProject/app/src/main/res/layout/week_item.xml" value="0.12335359675785208" />
+        <entry key="..\:/Users/Office2024/AndroidStudioProjects/Team/AndroidTeamProject/CalendarProject/app/src/main/res/menu/main_menu.xml" value="0.2" />
+        <entry key="..\:/Users/Office2024/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_list_item_1.xml" value="0.11354166666666667" />
+        <entry key="..\:/Users/jessi/git/AndroidTeamProject/CalendarProject/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2255" />
+        <entry key="..\:/Users/jessi/git/AndroidTeamProject/CalendarProject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2255" />
+        <entry key="..\:/Users/jessi/git/AndroidTeamProject/CalendarProject/app/src/main/res/layout/activity_main.xml" value="0.21875" />
+        <entry key="..\:/Users/jessi/git/AndroidTeamProject/CalendarProject/app/src/main/res/layout/calendar_cell.xml" value="0.1" />
+        <entry key="..\:/Users/jessi/git/AndroidTeamProject/CalendarProject/app/src/main/res/menu/main_menu.xml" value="0.359375" />
+        <entry key="..\:/Users/jessi/git/AndroidTeamProject/CalendarProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.125" />
+        <entry key="..\:/Users/jessi/git/AndroidTeamProject/CalendarProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2585" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
